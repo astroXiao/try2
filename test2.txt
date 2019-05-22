@@ -1,1 +1,2 @@
 Where is the previous test2.txt?
+Before "hard" is --, not -
