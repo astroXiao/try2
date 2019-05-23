@@ -1,3 +1,0 @@
-Where is the previous test2.txt?
-Before "hard" is --, not -
-Python or C++, which is better?
